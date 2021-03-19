@@ -1,0 +1,31 @@
+body {
+  background-color: #222831;
+}
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: darkgrey;
+  border-width: 5px;
+  width: 3%;
+}
+h1,
+h3 {
+  color: #66bfbf;
+}
+h3 {
+  color: #66bfbf;
+}
+p,
+a,
+i {
+  color: chocolate;
+}
+td {
+  color: #ff7b54;
+}
+th {
+  color: #e7d9ea;
+}
+table {
+  border-color: lightgoldenrodyellow;
+}
